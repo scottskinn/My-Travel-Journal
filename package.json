@@ -2,7 +2,7 @@
   "name": "travel-journal",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://scottskinn.github.io/My-Travel-Journal",
+  "homepage": "https://scottskinn.github.io/My_Travel_Journal/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
